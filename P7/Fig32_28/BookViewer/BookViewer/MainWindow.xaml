@@ -1,0 +1,48 @@
+﻿<!-- Fig. 32.28: MainWindow.xaml -->
+<!-- Using data templates (XAML). -->
+<Window x:Class="BookViewer.MainWindow"
+   xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+   xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+   Title="Book Viewer" Height="400" Width="600" Name="bookViewerWindow">
+
+   <Window.Resources> <!-- Define Window's resources -->
+
+      <!-- define data template -->
+      <DataTemplate x:Key="BookTemplate">
+         <Grid MaxWidth="250" Margin="3">
+            <Grid.ColumnDefinitions>
+               <ColumnDefinition Width="Auto" />
+               <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+
+            <!-- bind image source -->
+            <Image Grid.Column="0" Width="50" />
+
+            <StackPanel Grid.Column="1">
+               <!-- bind Title and ISBN -->
+               <TextBlock Margin="3,0"  
+                  FontWeight="Bold" TextWrapping="Wrap" />
+               <StackPanel Margin="3,0" Orientation="Horizontal">
+                  <TextBlock Text="ISBN: " />
+                  <TextBlock />
+               </StackPanel>
+            </StackPanel>
+         </Grid>
+      </DataTemplate>
+   </Window.Resources>
+
+   <Grid> <!-- define GUI -->
+      <Grid.ColumnDefinitions>
+         <ColumnDefinition Width="Auto" />
+         <ColumnDefinition />
+      </Grid.ColumnDefinitions>
+
+      <!-- use ListView and template to display data -->
+      <ListView x:Name="booksListView" Grid.Column="0"     
+         ItemTemplate="{StaticResource BookTemplate}" />
+
+      <!-- bind to selected item's full-size image -->
+      <Image Grid.Column="1" Margin="5" />
+   </Grid>
+</Window>
+

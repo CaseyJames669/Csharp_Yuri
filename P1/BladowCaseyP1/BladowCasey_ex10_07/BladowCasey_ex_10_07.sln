@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BladowCasey_ex_10_07", "BladowCasey_ex_10_07\BladowCasey_ex_10_07.csproj", "{70874DF9-4882-4195-92D8-854F12366DE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComplexTest", "ConsoleApplication1\ComplexTest.csproj", "{9EDCE28D-BF03-4640-A8AF-0397D71E74C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70874DF9-4882-4195-92D8-854F12366DE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70874DF9-4882-4195-92D8-854F12366DE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70874DF9-4882-4195-92D8-854F12366DE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70874DF9-4882-4195-92D8-854F12366DE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EDCE28D-BF03-4640-A8AF-0397D71E74C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EDCE28D-BF03-4640-A8AF-0397D71E74C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EDCE28D-BF03-4640-A8AF-0397D71E74C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EDCE28D-BF03-4640-A8AF-0397D71E74C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

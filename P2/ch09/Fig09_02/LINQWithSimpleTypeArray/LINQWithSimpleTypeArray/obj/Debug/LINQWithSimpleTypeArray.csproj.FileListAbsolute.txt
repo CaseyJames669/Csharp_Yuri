@@ -1,0 +1,15 @@
+C:\books\2012\VCSHARP2012HTP\examples\ch09\Fig09_02\LINQWithSimpleTypeArray\LINQWithSimpleTypeArray\bin\Debug\LINQWithSimpleTypeArray.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch09\Fig09_02\LINQWithSimpleTypeArray\LINQWithSimpleTypeArray\bin\Debug\LINQWithSimpleTypeArray.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch09\Fig09_02\LINQWithSimpleTypeArray\LINQWithSimpleTypeArray\obj\Debug\LINQWithSimpleTypeArray.csprojResolveAssemblyReference.cache
+C:\books\2012\VCSHARP2012HTP\examples\ch09\Fig09_02\LINQWithSimpleTypeArray\LINQWithSimpleTypeArray\obj\Debug\LINQWithSimpleTypeArray.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch09\Fig09_02\LINQWithSimpleTypeArray\LINQWithSimpleTypeArray\obj\Debug\LINQWithSimpleTypeArray.pdb
+C:\Users\boreisha\Documents\2014Spring\CSIS336\Code_Examples\ch09\Fig09_02\LINQWithSimpleTypeArray\LINQWithSimpleTypeArray\obj\Debug\LINQWithSimpleTypeArray.exe
+C:\Users\boreisha\Documents\2014Spring\CSIS336\Code_Examples\ch09\Fig09_02\LINQWithSimpleTypeArray\LINQWithSimpleTypeArray\obj\Debug\LINQWithSimpleTypeArray.pdb
+C:\Users\boreisha\Documents\2014Spring\CSIS336\Code_Examples\ch09\Fig09_02\LINQWithSimpleTypeArray\LINQWithSimpleTypeArray\bin\Debug\LINQWithSimpleTypeArray.exe
+C:\Users\boreisha\Documents\2014Spring\CSIS336\Code_Examples\ch09\Fig09_02\LINQWithSimpleTypeArray\LINQWithSimpleTypeArray\bin\Debug\LINQWithSimpleTypeArray.pdb
+C:\Users\boreisha\Documents\2014Spring\CSIS336\Code_Examples\ch09\Fig09_02\LINQWithSimpleTypeArray\LINQWithSimpleTypeArray\obj\Debug\LINQWithSimpleTypeArray.csprojResolveAssemblyReference.cache
+F:\MSUM Spring ' 14\C# - Yuri\P2\ch09\Fig09_02\LINQWithSimpleTypeArray\LINQWithSimpleTypeArray\obj\Debug\LINQWithSimpleTypeArray.exe
+F:\MSUM Spring ' 14\C# - Yuri\P2\ch09\Fig09_02\LINQWithSimpleTypeArray\LINQWithSimpleTypeArray\obj\Debug\LINQWithSimpleTypeArray.pdb
+F:\MSUM Spring ' 14\C# - Yuri\P2\ch09\Fig09_02\LINQWithSimpleTypeArray\LINQWithSimpleTypeArray\bin\Debug\LINQWithSimpleTypeArray.exe
+F:\MSUM Spring ' 14\C# - Yuri\P2\ch09\Fig09_02\LINQWithSimpleTypeArray\LINQWithSimpleTypeArray\bin\Debug\LINQWithSimpleTypeArray.pdb
+F:\MSUM Spring ' 14\C# - Yuri\P2\ch09\Fig09_02\LINQWithSimpleTypeArray\LINQWithSimpleTypeArray\obj\Debug\LINQWithSimpleTypeArray.csprojResolveAssemblyReference.cache

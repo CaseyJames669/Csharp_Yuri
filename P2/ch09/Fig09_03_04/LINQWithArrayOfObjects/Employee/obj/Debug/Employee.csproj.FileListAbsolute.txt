@@ -1,0 +1,9 @@
+C:\Users\boreisha\Documents\2014Spring\CSIS336\Code_Examples\ch09\Fig09_03_04\LINQWithArrayOfObjects\Employee\bin\Debug\Employee.dll
+C:\Users\boreisha\Documents\2014Spring\CSIS336\Code_Examples\ch09\Fig09_03_04\LINQWithArrayOfObjects\Employee\bin\Debug\Employee.pdb
+C:\Users\boreisha\Documents\2014Spring\CSIS336\Code_Examples\ch09\Fig09_03_04\LINQWithArrayOfObjects\Employee\obj\Debug\Employee.dll
+C:\Users\boreisha\Documents\2014Spring\CSIS336\Code_Examples\ch09\Fig09_03_04\LINQWithArrayOfObjects\Employee\obj\Debug\Employee.pdb
+F:\MSUM Spring ' 14\C# - Yuri\P2\ch09\Fig09_03_04\LINQWithArrayOfObjects\Employee\bin\Debug\Employee.dll
+F:\MSUM Spring ' 14\C# - Yuri\P2\ch09\Fig09_03_04\LINQWithArrayOfObjects\Employee\bin\Debug\Employee.pdb
+F:\MSUM Spring ' 14\C# - Yuri\P2\ch09\Fig09_03_04\LINQWithArrayOfObjects\Employee\obj\Debug\Employee.csprojResolveAssemblyReference.cache
+F:\MSUM Spring ' 14\C# - Yuri\P2\ch09\Fig09_03_04\LINQWithArrayOfObjects\Employee\obj\Debug\Employee.dll
+F:\MSUM Spring ' 14\C# - Yuri\P2\ch09\Fig09_03_04\LINQWithArrayOfObjects\Employee\obj\Debug\Employee.pdb

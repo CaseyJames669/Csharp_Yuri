@@ -1,0 +1,39 @@
+C:\Users\chetzler\Desktop\P6\P6\databases\PhoneBookService\PhoneBookService\PhoneBookClient\bin\PhoneBookClient.dll.config
+C:\Users\chetzler\Desktop\P6\P6\databases\PhoneBookService\PhoneBookService\PhoneBookClient\bin\PhoneBookClient.dll
+C:\Users\chetzler\Desktop\P6\P6\databases\PhoneBookService\PhoneBookService\PhoneBookClient\bin\PhoneBookClient.pdb
+C:\Users\chetzler\Desktop\P6\P6\databases\PhoneBookService\PhoneBookService\PhoneBookClient\bin\Antlr3.Runtime.dll
+C:\Users\chetzler\Desktop\P6\P6\databases\PhoneBookService\PhoneBookService\PhoneBookClient\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\chetzler\Desktop\P6\P6\databases\PhoneBookService\PhoneBookService\PhoneBookClient\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\chetzler\Desktop\P6\P6\databases\PhoneBookService\PhoneBookService\PhoneBookClient\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\chetzler\Desktop\P6\P6\databases\PhoneBookService\PhoneBookService\PhoneBookClient\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\chetzler\Desktop\P6\P6\databases\PhoneBookService\PhoneBookService\PhoneBookClient\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\chetzler\Desktop\P6\P6\databases\PhoneBookService\PhoneBookService\PhoneBookClient\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\chetzler\Desktop\P6\P6\databases\PhoneBookService\PhoneBookService\PhoneBookClient\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\chetzler\Desktop\P6\P6\databases\PhoneBookService\PhoneBookService\PhoneBookClient\bin\Newtonsoft.Json.dll
+C:\Users\chetzler\Desktop\P6\P6\databases\PhoneBookService\PhoneBookService\PhoneBookClient\bin\System.Web.Optimization.dll
+C:\Users\chetzler\Desktop\P6\P6\databases\PhoneBookService\PhoneBookService\PhoneBookClient\bin\WebGrease.dll
+C:\Users\chetzler\Desktop\P6\P6\databases\PhoneBookService\PhoneBookService\PhoneBookClient\bin\System.Web.Optimization.xml
+C:\Users\chetzler\Desktop\P6\P6\databases\PhoneBookService\PhoneBookService\PhoneBookClient\bin\Antlr3.Runtime.pdb
+C:\Users\chetzler\Desktop\P6\P6\databases\PhoneBookService\PhoneBookService\PhoneBookClient\bin\Newtonsoft.Json.xml
+C:\Users\chetzler\Desktop\P6\P6\databases\PhoneBookService\PhoneBookService\PhoneBookClient\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\chetzler\Desktop\P6\P6\databases\PhoneBookService\PhoneBookService\PhoneBookClient\obj\Debug\PhoneBookClient.csprojResolveAssemblyReference.cache
+C:\Users\chetzler\Desktop\P6\P6\databases\PhoneBookService\PhoneBookService\PhoneBookClient\obj\Debug\PhoneBookClient.dll
+C:\Users\chetzler\Desktop\P6\P6\databases\PhoneBookService\PhoneBookService\PhoneBookClient\obj\Debug\PhoneBookClient.pdb
+C:\Users\Casey\Desktop\PhoneBookService\PhoneBookClient\bin\PhoneBookClient.dll.config
+C:\Users\Casey\Desktop\PhoneBookService\PhoneBookClient\bin\PhoneBookClient.dll
+C:\Users\Casey\Desktop\PhoneBookService\PhoneBookClient\bin\PhoneBookClient.pdb
+C:\Users\Casey\Desktop\PhoneBookService\PhoneBookClient\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Casey\Desktop\PhoneBookService\PhoneBookClient\bin\Newtonsoft.Json.dll
+C:\Users\Casey\Desktop\PhoneBookService\PhoneBookClient\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\Casey\Desktop\PhoneBookService\PhoneBookClient\obj\Debug\PhoneBookClient.csprojResolveAssemblyReference.cache
+C:\Users\Casey\Desktop\PhoneBookService\PhoneBookClient\obj\Debug\PhoneBookClient.dll
+C:\Users\Casey\Desktop\PhoneBookService\PhoneBookClient\obj\Debug\PhoneBookClient.pdb
+C:\Users\Casey\Documents\Dropbox\4 2014 MSUM Spring\C# - Yuri\P6\PhoneBookService\PhoneBookClient\bin\PhoneBookClient.dll.config
+C:\Users\Casey\Documents\Dropbox\4 2014 MSUM Spring\C# - Yuri\P6\PhoneBookService\PhoneBookClient\bin\PhoneBookClient.dll
+C:\Users\Casey\Documents\Dropbox\4 2014 MSUM Spring\C# - Yuri\P6\PhoneBookService\PhoneBookClient\bin\PhoneBookClient.pdb
+C:\Users\Casey\Documents\Dropbox\4 2014 MSUM Spring\C# - Yuri\P6\PhoneBookService\PhoneBookClient\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Casey\Documents\Dropbox\4 2014 MSUM Spring\C# - Yuri\P6\PhoneBookService\PhoneBookClient\bin\Newtonsoft.Json.dll
+C:\Users\Casey\Documents\Dropbox\4 2014 MSUM Spring\C# - Yuri\P6\PhoneBookService\PhoneBookClient\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\Casey\Documents\Dropbox\4 2014 MSUM Spring\C# - Yuri\P6\PhoneBookService\PhoneBookClient\obj\Debug\PhoneBookClient.csprojResolveAssemblyReference.cache
+C:\Users\Casey\Documents\Dropbox\4 2014 MSUM Spring\C# - Yuri\P6\PhoneBookService\PhoneBookClient\obj\Debug\PhoneBookClient.dll
+C:\Users\Casey\Documents\Dropbox\4 2014 MSUM Spring\C# - Yuri\P6\PhoneBookService\PhoneBookClient\obj\Debug\PhoneBookClient.pdb

@@ -1,0 +1,11 @@
+C:\books\2012\VCSHARP2012HTP\examples\ch22\Fig22_05_08\Stack\Stack\bin\Debug\Stack.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch22\Fig22_05_08\Stack\Stack\bin\Debug\Stack.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch22\Fig22_05_08\Stack\Stack\obj\Debug\Stack.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch22\Fig22_05_08\Stack\Stack\obj\Debug\Stack.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch20\Fig20_05_08\Stack\Stack\obj\Debug\Stack.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch20\Fig20_05_08\Stack\Stack\obj\Debug\Stack.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch20\Fig20_05_08\Stack\Stack\bin\Debug\Stack.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch20\Fig20_05_08\Stack\Stack\bin\Debug\Stack.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch20\Fig20_05_08\Stack\Stack\obj\Debug\Stack.csprojResolveAssemblyReference.cache
+C:\Users\boreisha\Documents\2014Spring\CSIS336\Code_Examples\ch20\Fig20_05_08\Stack\Stack\obj\Debug\Stack.exe
+C:\Users\boreisha\Documents\2014Spring\CSIS336\Code_Examples\ch20\Fig20_05_08\Stack\Stack\obj\Debug\Stack.pdb

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="17741581-fe67-426a-a53b-1b384a4d867a" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.Generic.List`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:61494/PhoneBookService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="PhoneBookService.xsd" MetadataType="Schema" ID="02379e17-5a9b-4fc4-bc66-b17fd3403c70" SourceId="1" SourceUrl="http://localhost:61494/PhoneBookService.svc?xsd=xsd1" />
+    <MetadataFile FileName="PhoneBookService.disco" MetadataType="Disco" ID="0f27d94b-a7a3-4e65-8d97-5b60e299c2ab" SourceId="1" SourceUrl="http://localhost:61494/PhoneBookService.svc?disco" />
+    <MetadataFile FileName="PhoneBookService1.xsd" MetadataType="Schema" ID="a92754ed-5fae-45ae-b3b3-b803e6468538" SourceId="1" SourceUrl="http://localhost:61494/PhoneBookService.svc?xsd=xsd2" />
+    <MetadataFile FileName="PhoneBookService.wsdl" MetadataType="Wsdl" ID="eb8e3a7a-f8f0-44d8-aaee-05430c2c9e4b" SourceId="1" SourceUrl="http://localhost:61494/PhoneBookService.svc?wsdl" />
+    <MetadataFile FileName="PhoneBookService2.xsd" MetadataType="Schema" ID="57affa0a-2c9e-4a6e-b860-59672102e564" SourceId="1" SourceUrl="http://localhost:61494/PhoneBookService.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

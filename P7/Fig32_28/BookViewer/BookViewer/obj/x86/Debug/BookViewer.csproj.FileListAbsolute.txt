@@ -1,0 +1,48 @@
+C:\books\2012\VCSHARP2012HTP\examples\ch32\Fig32_28\BookViewer\BookViewer\bin\Debug\BookViewer.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch32\Fig32_28\BookViewer\BookViewer\bin\Debug\BookViewer.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch32\Fig32_28\BookViewer\BookViewer\obj\x86\Debug\BookViewer.csprojResolveAssemblyReference.cache
+C:\books\2012\VCSHARP2012HTP\examples\ch32\Fig32_28\BookViewer\BookViewer\obj\x86\Debug\MainWindow.baml
+C:\books\2012\VCSHARP2012HTP\examples\ch32\Fig32_28\BookViewer\BookViewer\obj\x86\Debug\MainWindow.g.cs
+C:\books\2012\VCSHARP2012HTP\examples\ch32\Fig32_28\BookViewer\BookViewer\obj\x86\Debug\App.g.cs
+C:\books\2012\VCSHARP2012HTP\examples\ch32\Fig32_28\BookViewer\BookViewer\obj\x86\Debug\BookViewer_MarkupCompile.cache
+C:\books\2012\VCSHARP2012HTP\examples\ch32\Fig32_28\BookViewer\BookViewer\obj\x86\Debug\BookViewer.g.resources
+C:\books\2012\VCSHARP2012HTP\examples\ch32\Fig32_28\BookViewer\BookViewer\obj\x86\Debug\BookViewer.Properties.Resources.resources
+C:\books\2012\VCSHARP2012HTP\examples\ch32\Fig32_28\BookViewer\BookViewer\obj\x86\Debug\BookViewer.csproj.GenerateResource.Cache
+C:\books\2012\VCSHARP2012HTP\examples\ch32\Fig32_28\BookViewer\BookViewer\obj\x86\Debug\BookViewer.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch32\Fig32_28\BookViewer\BookViewer\obj\x86\Debug\BookViewer.pdb
+C:\Users\boreisha\Documents\2014 Spring\CSIS336\Code_Examples\ch32\Fig32_28\BookViewer\BookViewer\obj\x86\Debug\BookViewer.exe
+C:\Users\boreisha\Documents\2014 Spring\CSIS336\Code_Examples\ch32\Fig32_28\BookViewer\BookViewer\obj\x86\Debug\BookViewer.pdb
+C:\Users\boreisha\Documents\2014 Spring\CSIS336\Code_Examples\ch32\Fig32_28\BookViewer\BookViewer\bin\Debug\BookViewer.exe
+C:\Users\boreisha\Documents\2014 Spring\CSIS336\Code_Examples\ch32\Fig32_28\BookViewer\BookViewer\bin\Debug\BookViewer.pdb
+C:\Users\boreisha\Documents\2014 Spring\CSIS336\Code_Examples\ch32\Fig32_28\BookViewer\BookViewer\obj\x86\Debug\BookViewer.csprojResolveAssemblyReference.cache
+C:\Users\boreisha\Documents\2014 Spring\CSIS336\Code_Examples\ch32\Fig32_28\BookViewer\BookViewer\obj\x86\Debug\MainWindow.baml
+C:\Users\boreisha\Documents\2014 Spring\CSIS336\Code_Examples\ch32\Fig32_28\BookViewer\BookViewer\obj\x86\Debug\MainWindow.g.cs
+C:\Users\boreisha\Documents\2014 Spring\CSIS336\Code_Examples\ch32\Fig32_28\BookViewer\BookViewer\obj\x86\Debug\App.g.cs
+C:\Users\boreisha\Documents\2014 Spring\CSIS336\Code_Examples\ch32\Fig32_28\BookViewer\BookViewer\obj\x86\Debug\BookViewer_MarkupCompile.cache
+C:\Users\boreisha\Documents\2014 Spring\CSIS336\Code_Examples\ch32\Fig32_28\BookViewer\BookViewer\obj\x86\Debug\BookViewer.g.resources
+C:\Users\boreisha\Documents\2014 Spring\CSIS336\Code_Examples\ch32\Fig32_28\BookViewer\BookViewer\obj\x86\Debug\BookViewer.Properties.Resources.resources
+C:\Users\boreisha\Documents\2014 Spring\CSIS336\Code_Examples\ch32\Fig32_28\BookViewer\BookViewer\obj\x86\Debug\BookViewer.csproj.GenerateResource.Cache
+C:\Users\boreisha\Documents\2014Spring\CSIS336\Projects\P6 Solution\Fig32_28\BookViewer\BookViewer\obj\x86\Debug\BookViewer.exe
+C:\Users\boreisha\Documents\2014Spring\CSIS336\Projects\P6 Solution\Fig32_28\BookViewer\BookViewer\obj\x86\Debug\BookViewer.pdb
+C:\Users\boreisha\Documents\2014Spring\CSIS336\Projects\P6 Solution\Fig32_28\BookViewer\BookViewer\bin\Debug\BookViewer.exe
+C:\Users\boreisha\Documents\2014Spring\CSIS336\Projects\P6 Solution\Fig32_28\BookViewer\BookViewer\bin\Debug\BookViewer.pdb
+C:\Users\boreisha\Documents\2014Spring\CSIS336\Projects\P6 Solution\Fig32_28\BookViewer\BookViewer\obj\x86\Debug\BookViewer.csprojResolveAssemblyReference.cache
+C:\Users\boreisha\Documents\2014Spring\CSIS336\Projects\P6 Solution\Fig32_28\BookViewer\BookViewer\obj\x86\Debug\MainWindow.baml
+C:\Users\boreisha\Documents\2014Spring\CSIS336\Projects\P6 Solution\Fig32_28\BookViewer\BookViewer\obj\x86\Debug\MainWindow.g.cs
+C:\Users\boreisha\Documents\2014Spring\CSIS336\Projects\P6 Solution\Fig32_28\BookViewer\BookViewer\obj\x86\Debug\App.g.cs
+C:\Users\boreisha\Documents\2014Spring\CSIS336\Projects\P6 Solution\Fig32_28\BookViewer\BookViewer\obj\x86\Debug\BookViewer_MarkupCompile.cache
+C:\Users\boreisha\Documents\2014Spring\CSIS336\Projects\P6 Solution\Fig32_28\BookViewer\BookViewer\obj\x86\Debug\BookViewer.g.resources
+C:\Users\boreisha\Documents\2014Spring\CSIS336\Projects\P6 Solution\Fig32_28\BookViewer\BookViewer\obj\x86\Debug\BookViewer.Properties.Resources.resources
+C:\Users\boreisha\Documents\2014Spring\CSIS336\Projects\P6 Solution\Fig32_28\BookViewer\BookViewer\obj\x86\Debug\BookViewer.csproj.GenerateResource.Cache
+C:\Users\boreisha\Documents\2014Spring\CSIS336\Projects\P6\Fig32_28\BookViewer\BookViewer\obj\x86\Debug\BookViewer.exe
+C:\Users\boreisha\Documents\2014Spring\CSIS336\Projects\P6\Fig32_28\BookViewer\BookViewer\obj\x86\Debug\BookViewer.pdb
+C:\Users\boreisha\Documents\2014Spring\CSIS336\Projects\P6\Fig32_28\BookViewer\BookViewer\bin\Debug\BookViewer.exe
+C:\Users\boreisha\Documents\2014Spring\CSIS336\Projects\P6\Fig32_28\BookViewer\BookViewer\bin\Debug\BookViewer.pdb
+C:\Users\boreisha\Documents\2014Spring\CSIS336\Projects\P6\Fig32_28\BookViewer\BookViewer\obj\x86\Debug\BookViewer.csprojResolveAssemblyReference.cache
+C:\Users\boreisha\Documents\2014Spring\CSIS336\Projects\P6\Fig32_28\BookViewer\BookViewer\obj\x86\Debug\MainWindow.baml
+C:\Users\boreisha\Documents\2014Spring\CSIS336\Projects\P6\Fig32_28\BookViewer\BookViewer\obj\x86\Debug\MainWindow.g.cs
+C:\Users\boreisha\Documents\2014Spring\CSIS336\Projects\P6\Fig32_28\BookViewer\BookViewer\obj\x86\Debug\App.g.cs
+C:\Users\boreisha\Documents\2014Spring\CSIS336\Projects\P6\Fig32_28\BookViewer\BookViewer\obj\x86\Debug\BookViewer_MarkupCompile.cache
+C:\Users\boreisha\Documents\2014Spring\CSIS336\Projects\P6\Fig32_28\BookViewer\BookViewer\obj\x86\Debug\BookViewer.g.resources
+C:\Users\boreisha\Documents\2014Spring\CSIS336\Projects\P6\Fig32_28\BookViewer\BookViewer\obj\x86\Debug\BookViewer.Properties.Resources.resources
+C:\Users\boreisha\Documents\2014Spring\CSIS336\Projects\P6\Fig32_28\BookViewer\BookViewer\obj\x86\Debug\BookViewer.csproj.GenerateResource.Cache

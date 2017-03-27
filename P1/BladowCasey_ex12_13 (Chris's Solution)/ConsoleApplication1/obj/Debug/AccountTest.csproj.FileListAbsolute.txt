@@ -1,0 +1,21 @@
+C:\Users\Casey\Documents\Dropbox\MSUM Spring ' 14\C# - Yuri\BladowCaseyP1\BladowCasey_ex12_13\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Casey\Documents\Dropbox\MSUM Spring ' 14\C# - Yuri\BladowCaseyP1\BladowCasey_ex12_13\ConsoleApplication1\obj\Debug\AccountTest.csprojResolveAssemblyReference.cache
+C:\Users\chetzler\Desktop\BladowCasey_ex12_13\ConsoleApplication1\obj\Debug\AccountTest.csprojResolveAssemblyReference.cache
+C:\Users\chetzler\Desktop\BladowCasey_ex12_13\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\chetzler\Desktop\BladowCasey_ex12_13\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\chetzler\Desktop\BladowCasey_ex12_13\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\chetzler\Desktop\BladowCasey_ex12_13\ConsoleApplication1\bin\Debug\BladowCasey_ex12_13.dll
+C:\Users\chetzler\Desktop\BladowCasey_ex12_13\ConsoleApplication1\bin\Debug\BladowCasey_ex12_13.pdb
+C:\Users\chetzler\Desktop\BladowCasey_ex12_13\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\chetzler\Desktop\BladowCasey_ex12_13\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\bladowca\Desktop\BladowCasey_ex12_13\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\bladowca\Desktop\BladowCasey_ex12_13\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\bladowca\Desktop\BladowCasey_ex12_13\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\bladowca\Desktop\BladowCasey_ex12_13\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\bladowca\Desktop\BladowCasey_ex12_13\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\bladowca\Desktop\BladowCasey_ex12_13\ConsoleApplication1\bin\Debug\BladowCasey_ex12_13.dll
+C:\Users\bladowca\Desktop\BladowCasey_ex12_13\ConsoleApplication1\bin\Debug\BladowCasey_ex12_13.pdb
+C:\Users\bladowca\Desktop\BladowCasey_ex12_13\ConsoleApplication1\obj\Debug\AccountTest.csprojResolveAssemblyReference.cache
+C:\Users\Casey\Documents\Dropbox\MSUM Spring ' 14\C# - Yuri\BladowCasey_ex12_13 (Chris's Solution)\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Casey\Documents\Dropbox\MSUM Spring ' 14\C# - Yuri\BladowCasey_ex12_13 (Chris's Solution)\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Casey\Documents\Dropbox\MSUM Spring ' 14\C# - Yuri\BladowCasey_ex12_13 (Chris's Solution)\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

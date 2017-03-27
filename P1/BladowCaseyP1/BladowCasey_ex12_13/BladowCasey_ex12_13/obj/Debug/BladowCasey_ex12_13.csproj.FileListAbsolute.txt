@@ -1,0 +1,5 @@
+C:\Users\Casey\Documents\Dropbox\MSUM Spring ' 14\C# - Yuri\BladowCaseyP1\BladowCasey_ex12_13\BladowCasey_ex12_13\bin\Debug\BladowCasey_ex12_13.dll
+C:\Users\Casey\Documents\Dropbox\MSUM Spring ' 14\C# - Yuri\BladowCaseyP1\BladowCasey_ex12_13\BladowCasey_ex12_13\bin\Debug\BladowCasey_ex12_13.pdb
+C:\Users\Casey\Documents\Dropbox\MSUM Spring ' 14\C# - Yuri\BladowCaseyP1\BladowCasey_ex12_13\BladowCasey_ex12_13\obj\Debug\BladowCasey_ex12_13.csprojResolveAssemblyReference.cache
+C:\Users\Casey\Documents\Dropbox\MSUM Spring ' 14\C# - Yuri\BladowCaseyP1\BladowCasey_ex12_13\BladowCasey_ex12_13\obj\Debug\BladowCasey_ex12_13.dll
+C:\Users\Casey\Documents\Dropbox\MSUM Spring ' 14\C# - Yuri\BladowCaseyP1\BladowCasey_ex12_13\BladowCasey_ex12_13\obj\Debug\BladowCasey_ex12_13.pdb

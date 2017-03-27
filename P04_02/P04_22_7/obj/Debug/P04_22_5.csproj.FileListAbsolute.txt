@@ -1,0 +1,11 @@
+C:\Users\chetzler\Desktop\P4\P04_02\P04_22_5\bin\Debug\P4_22_7.exe.config
+C:\Users\chetzler\Desktop\P4\P04_02\P04_22_5\obj\Debug\P4_22_7.exe
+C:\Users\chetzler\Desktop\P4\P04_02\P04_22_5\obj\Debug\P4_22_7.pdb
+C:\Users\chetzler\Desktop\P4\P04_02\P04_22_5\bin\Debug\P4_22_7.exe
+C:\Users\chetzler\Desktop\P4\P04_02\P04_22_5\bin\Debug\P4_22_7.pdb
+C:\Users\chetzler\Desktop\P4\P04_02\P04_22_5\bin\Debug\P4_22_7.exe.CodeAnalysisLog.xml
+C:\Users\chetzler\Desktop\P4\P04_02\P04_22_5\bin\Debug\P4_22_7.exe.lastcodeanalysissucceeded
+C:\Users\chetzler\Desktop\P4\P04_02\P04_22_5\obj\Debug\P04_22_5.csprojResolveAssemblyReference.cache
+C:\Users\chetzler\Desktop\P4\P04_02\P04_22_5\obj\Debug\P4_22_7.BaseballForm.resources
+C:\Users\chetzler\Desktop\P4\P04_02\P04_22_5\obj\Debug\P4_22_7.Properties.Resources.resources
+C:\Users\chetzler\Desktop\P4\P04_02\P04_22_5\obj\Debug\P04_22_5.csproj.GenerateResource.Cache

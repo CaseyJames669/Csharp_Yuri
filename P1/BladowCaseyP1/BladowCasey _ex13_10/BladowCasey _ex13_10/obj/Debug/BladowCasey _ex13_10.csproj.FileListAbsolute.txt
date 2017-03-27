@@ -1,0 +1,4 @@
+C:\Users\bladowca\Desktop\BladowCasey _ex13_10\BladowCasey _ex13_10\bin\Debug\BladowCasey _ex13_10.pdb
+C:\Users\bladowca\Desktop\BladowCasey _ex13_10\BladowCasey _ex13_10\obj\Debug\BladowCasey _ex13_10.pdb
+C:\Users\bladowca\Desktop\BladowCasey _ex13_10\BladowCasey _ex13_10\bin\Debug\BladowCasey _ex13_10.exe
+C:\Users\bladowca\Desktop\BladowCasey _ex13_10\BladowCasey _ex13_10\obj\Debug\BladowCasey _ex13_10.exe

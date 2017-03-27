@@ -1,0 +1,29 @@
+﻿<!-- Fig. 32.25: MainWindow.xaml -->
+<!-- Using data binding (XAML). -->
+<Window x:Class="BookViewer.MainWindow"
+   xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+   xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+   Title="Book Viewer" Height="400" Width="600">
+
+   <Grid> <!-- define GUI -->
+      <Grid.ColumnDefinitions>
+         <ColumnDefinition Width="Auto" />
+         <ColumnDefinition />
+      </Grid.ColumnDefinitions>
+
+      <!-- use ListView and GridView to display data -->
+      <ListView x:Name="booksListView" Grid.Column="0" MaxWidth="250">
+         <ListView.View>
+            <GridView>
+                    <GridViewColumn Header="Title" Width="100" /> 
+                    <GridViewColumn Header="ISBN" Width="80" />            
+                  
+            </GridView>
+         </ListView.View>
+      </ListView>
+
+      <!-- bind to selected item's full-size image -->
+      <Image Grid.Column="1" Margin="5" />
+   </Grid>
+</Window>
+

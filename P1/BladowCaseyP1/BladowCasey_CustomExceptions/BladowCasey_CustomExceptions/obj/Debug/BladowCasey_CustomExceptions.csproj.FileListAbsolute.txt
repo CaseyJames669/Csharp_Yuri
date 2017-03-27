@@ -1,0 +1,4 @@
+C:\Users\bladowca\Desktop\BladowCasey_CustomExceptions\BladowCasey_CustomExceptions\bin\Debug\BladowCasey_CustomExceptions.pdb
+C:\Users\bladowca\Desktop\BladowCasey_CustomExceptions\BladowCasey_CustomExceptions\obj\Debug\BladowCasey_CustomExceptions.pdb
+C:\Users\bladowca\Desktop\BladowCasey_CustomExceptions\BladowCasey_CustomExceptions\bin\Debug\BladowCasey_CustomExceptions.exe
+C:\Users\bladowca\Desktop\BladowCasey_CustomExceptions\BladowCasey_CustomExceptions\obj\Debug\BladowCasey_CustomExceptions.exe

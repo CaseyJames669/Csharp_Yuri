@@ -1,0 +1,5 @@
+F:\MSUM Spring ' 14\C# - Yuri\P2\BladowCaseyP2\BladowCasey_ex20_07\GenericLinearSearch\bin\Debug\GenericLinearSearch.dll
+F:\MSUM Spring ' 14\C# - Yuri\P2\BladowCaseyP2\BladowCasey_ex20_07\GenericLinearSearch\bin\Debug\GenericLinearSearch.pdb
+F:\MSUM Spring ' 14\C# - Yuri\P2\BladowCaseyP2\BladowCasey_ex20_07\GenericLinearSearch\obj\Debug\GenericLinearSearch.csprojResolveAssemblyReference.cache
+F:\MSUM Spring ' 14\C# - Yuri\P2\BladowCaseyP2\BladowCasey_ex20_07\GenericLinearSearch\obj\Debug\GenericLinearSearch.dll
+F:\MSUM Spring ' 14\C# - Yuri\P2\BladowCaseyP2\BladowCasey_ex20_07\GenericLinearSearch\obj\Debug\GenericLinearSearch.pdb

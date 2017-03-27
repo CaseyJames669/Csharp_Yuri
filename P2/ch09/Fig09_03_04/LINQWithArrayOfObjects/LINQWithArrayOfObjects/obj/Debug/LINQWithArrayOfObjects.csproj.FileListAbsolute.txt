@@ -1,0 +1,20 @@
+C:\books\2012\VCSHARP2012HTP\examples\ch09\Fig09_03_04\LINQWithArrayOfObjects\LINQWithArrayOfObjects\bin\Debug\LINQWithArrayOfObjects.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch09\Fig09_03_04\LINQWithArrayOfObjects\LINQWithArrayOfObjects\bin\Debug\LINQWithArrayOfObjects.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch09\Fig09_03_04\LINQWithArrayOfObjects\LINQWithArrayOfObjects\obj\Debug\LINQWithArrayOfObjects.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch09\Fig09_03_04\LINQWithArrayOfObjects\LINQWithArrayOfObjects\obj\Debug\LINQWithArrayOfObjects.pdb
+C:\Users\boreisha\Documents\2014Spring\CSIS336\Code_Examples\ch09\Fig09_03_04\LINQWithArrayOfObjects\LINQWithArrayOfObjects\obj\Debug\LINQWithArrayOfObjects.exe
+C:\Users\boreisha\Documents\2014Spring\CSIS336\Code_Examples\ch09\Fig09_03_04\LINQWithArrayOfObjects\LINQWithArrayOfObjects\obj\Debug\LINQWithArrayOfObjects.pdb
+C:\Users\boreisha\Documents\2014Spring\CSIS336\Code_Examples\ch09\Fig09_03_04\LINQWithArrayOfObjects\LINQWithArrayOfObjects\obj\Debug\LINQWithArrayOfObjects.csprojResolveAssemblyReference.cache
+C:\Users\boreisha\Documents\2014Spring\CSIS336\Code_Examples\ch09\Fig09_03_04\LINQWithArrayOfObjects\LINQWithArrayOfObjects\bin\Debug\LINQWithArrayOfObjects.exe.config
+C:\Users\boreisha\Documents\2014Spring\CSIS336\Code_Examples\ch09\Fig09_03_04\LINQWithArrayOfObjects\LINQWithArrayOfObjects\bin\Debug\LINQWithArrayOfObjects.exe
+C:\Users\boreisha\Documents\2014Spring\CSIS336\Code_Examples\ch09\Fig09_03_04\LINQWithArrayOfObjects\LINQWithArrayOfObjects\bin\Debug\LINQWithArrayOfObjects.pdb
+C:\Users\boreisha\Documents\2014Spring\CSIS336\Code_Examples\ch09\Fig09_03_04\LINQWithArrayOfObjects\LINQWithArrayOfObjects\bin\Debug\Employee.dll
+C:\Users\boreisha\Documents\2014Spring\CSIS336\Code_Examples\ch09\Fig09_03_04\LINQWithArrayOfObjects\LINQWithArrayOfObjects\bin\Debug\Employee.pdb
+F:\MSUM Spring ' 14\C# - Yuri\P2\ch09\Fig09_03_04\LINQWithArrayOfObjects\LINQWithArrayOfObjects\bin\Debug\LINQWithArrayOfObjects.exe.config
+F:\MSUM Spring ' 14\C# - Yuri\P2\ch09\Fig09_03_04\LINQWithArrayOfObjects\LINQWithArrayOfObjects\obj\Debug\LINQWithArrayOfObjects.exe
+F:\MSUM Spring ' 14\C# - Yuri\P2\ch09\Fig09_03_04\LINQWithArrayOfObjects\LINQWithArrayOfObjects\obj\Debug\LINQWithArrayOfObjects.pdb
+F:\MSUM Spring ' 14\C# - Yuri\P2\ch09\Fig09_03_04\LINQWithArrayOfObjects\LINQWithArrayOfObjects\bin\Debug\LINQWithArrayOfObjects.exe
+F:\MSUM Spring ' 14\C# - Yuri\P2\ch09\Fig09_03_04\LINQWithArrayOfObjects\LINQWithArrayOfObjects\bin\Debug\LINQWithArrayOfObjects.pdb
+F:\MSUM Spring ' 14\C# - Yuri\P2\ch09\Fig09_03_04\LINQWithArrayOfObjects\LINQWithArrayOfObjects\bin\Debug\Employee.dll
+F:\MSUM Spring ' 14\C# - Yuri\P2\ch09\Fig09_03_04\LINQWithArrayOfObjects\LINQWithArrayOfObjects\bin\Debug\Employee.pdb
+F:\MSUM Spring ' 14\C# - Yuri\P2\ch09\Fig09_03_04\LINQWithArrayOfObjects\LINQWithArrayOfObjects\obj\Debug\LINQWithArrayOfObjects.csprojResolveAssemblyReference.cache

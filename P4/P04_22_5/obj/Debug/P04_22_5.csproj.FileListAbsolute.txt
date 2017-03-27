@@ -1,0 +1,11 @@
+C:\Users\chetzler\Desktop\P4\P04_02\P04_22_5\bin\Debug\P04_22_7.exe.config
+C:\Users\chetzler\Desktop\P4\P04_02\P04_22_5\bin\Debug\P04_22_7.exe
+C:\Users\chetzler\Desktop\P4\P04_02\P04_22_5\bin\Debug\P04_22_7.pdb
+C:\Users\chetzler\Desktop\P4\P04_02\P04_22_5\obj\Debug\P04_22_7.Properties.Resources.resources
+C:\Users\chetzler\Desktop\P4\P04_02\P04_22_5\obj\Debug\P04_22_5.csproj.GenerateResource.Cache
+C:\Users\chetzler\Desktop\P4\P04_02\P04_22_5\obj\Debug\P04_22_7.exe
+C:\Users\chetzler\Desktop\P4\P04_02\P04_22_5\obj\Debug\P04_22_7.pdb
+C:\Users\chetzler\Desktop\P4\P04_02\P04_22_5\bin\Debug\Books.mdf
+C:\Users\chetzler\Desktop\P4\P04_02\P04_22_5\bin\Debug\Books_log.ldf
+C:\Users\chetzler\Desktop\P4\P04_02\P04_22_5\obj\Debug\P04_22_7.Books.resources
+C:\Users\chetzler\Desktop\P4\P04_02\P04_22_5\obj\Debug\P04_22_5.csprojResolveAssemblyReference.cache

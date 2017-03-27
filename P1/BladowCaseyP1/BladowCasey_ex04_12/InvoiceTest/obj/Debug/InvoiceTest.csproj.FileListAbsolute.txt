@@ -1,0 +1,5 @@
+C:\Users\bladowca\Desktop\BladowCasey_ex04_12\InvoiceTest\bin\Debug\InvoiceTest.exe.config
+C:\Users\bladowca\Desktop\BladowCasey_ex04_12\InvoiceTest\bin\Debug\InvoiceTest.exe
+C:\Users\bladowca\Desktop\BladowCasey_ex04_12\InvoiceTest\bin\Debug\InvoiceTest.pdb
+C:\Users\bladowca\Desktop\BladowCasey_ex04_12\InvoiceTest\obj\Debug\InvoiceTest.exe
+C:\Users\bladowca\Desktop\BladowCasey_ex04_12\InvoiceTest\obj\Debug\InvoiceTest.pdb

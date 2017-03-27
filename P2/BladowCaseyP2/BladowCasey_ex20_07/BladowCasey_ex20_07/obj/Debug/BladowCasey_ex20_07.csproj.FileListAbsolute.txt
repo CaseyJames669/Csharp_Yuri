@@ -1,0 +1,9 @@
+F:\MSUM Spring ' 14\C# - Yuri\P2\BladowCaseyP2\BladowCasey_ex20_07\BladowCasey_ex20_07\bin\Debug\BladowCasey_ex20_07.exe.config
+F:\MSUM Spring ' 14\C# - Yuri\P2\BladowCaseyP2\BladowCasey_ex20_07\BladowCasey_ex20_07\bin\Debug\BladowCasey_ex20_07.exe
+F:\MSUM Spring ' 14\C# - Yuri\P2\BladowCaseyP2\BladowCasey_ex20_07\BladowCasey_ex20_07\bin\Debug\BladowCasey_ex20_07.pdb
+F:\MSUM Spring ' 14\C# - Yuri\P2\BladowCaseyP2\BladowCasey_ex20_07\BladowCasey_ex20_07\obj\Debug\BladowCasey_ex20_07.csprojResolveAssemblyReference.cache
+F:\MSUM Spring ' 14\C# - Yuri\P2\BladowCaseyP2\BladowCasey_ex20_07\BladowCasey_ex20_07\obj\Debug\BladowCasey_ex20_07.Properties.Resources.resources
+F:\MSUM Spring ' 14\C# - Yuri\P2\BladowCaseyP2\BladowCasey_ex20_07\BladowCasey_ex20_07\obj\Debug\BladowCasey_ex20_07.csproj.GenerateResource.Cache
+F:\MSUM Spring ' 14\C# - Yuri\P2\BladowCaseyP2\BladowCasey_ex20_07\BladowCasey_ex20_07\obj\Debug\BladowCasey_ex20_07.exe
+F:\MSUM Spring ' 14\C# - Yuri\P2\BladowCaseyP2\BladowCasey_ex20_07\BladowCasey_ex20_07\obj\Debug\BladowCasey_ex20_07.pdb
+F:\MSUM Spring ' 14\C# - Yuri\P2\BladowCaseyP2\BladowCasey_ex20_07\BladowCasey_ex20_07\obj\Debug\BladowCasey_ex20_07.Form1.resources

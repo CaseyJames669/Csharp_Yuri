@@ -1,0 +1,5 @@
+F:\MSUM Spring ' 14\C# - Yuri\P2\BladowCaseyP2\BladowCasey_ex09_03\Invoice\bin\Debug\Invoice.dll
+F:\MSUM Spring ' 14\C# - Yuri\P2\BladowCaseyP2\BladowCasey_ex09_03\Invoice\bin\Debug\Invoice.pdb
+F:\MSUM Spring ' 14\C# - Yuri\P2\BladowCaseyP2\BladowCasey_ex09_03\Invoice\obj\Debug\Invoice.dll
+F:\MSUM Spring ' 14\C# - Yuri\P2\BladowCaseyP2\BladowCasey_ex09_03\Invoice\obj\Debug\Invoice.pdb
+F:\MSUM Spring ' 14\C# - Yuri\P2\BladowCaseyP2\BladowCasey_ex09_03\Invoice\obj\Debug\Invoice.csprojResolveAssemblyReference.cache

@@ -1,0 +1,15 @@
+F:\MSUM Spring ' 14\C# - Yuri\P2\BladowCaseyP2\BladowCasey_ex9_4\LINQDistinctWords\LINQDistinctWords\bin\Debug\LINQDistinctWords.exe.config
+F:\MSUM Spring ' 14\C# - Yuri\P2\BladowCaseyP2\BladowCasey_ex9_4\LINQDistinctWords\LINQDistinctWords\bin\Debug\LINQDistinctWords.exe
+F:\MSUM Spring ' 14\C# - Yuri\P2\BladowCaseyP2\BladowCasey_ex9_4\LINQDistinctWords\LINQDistinctWords\bin\Debug\LINQDistinctWords.pdb
+F:\MSUM Spring ' 14\C# - Yuri\P2\BladowCaseyP2\BladowCasey_ex9_4\LINQDistinctWords\LINQDistinctWords\obj\Debug\LINQDistinctWords.csprojResolveAssemblyReference.cache
+F:\MSUM Spring ' 14\C# - Yuri\P2\BladowCaseyP2\BladowCasey_ex9_4\LINQDistinctWords\LINQDistinctWords\obj\Debug\LINQDistinctWords.exe
+F:\MSUM Spring ' 14\C# - Yuri\P2\BladowCaseyP2\BladowCasey_ex9_4\LINQDistinctWords\LINQDistinctWords\obj\Debug\LINQDistinctWords.pdb
+F:\MSUM Spring ' 14\C# - Yuri\P2\BladowCaseyP2\BladowCasey_ex09_04\LINQDistinctWords\LINQDistinctWords\bin\Debug\LINQDistinctWords.exe.config
+F:\MSUM Spring ' 14\C# - Yuri\P2\BladowCaseyP2\BladowCasey_ex09_04\LINQDistinctWords\LINQDistinctWords\obj\Debug\LINQDistinctWords.exe
+F:\MSUM Spring ' 14\C# - Yuri\P2\BladowCaseyP2\BladowCasey_ex09_04\LINQDistinctWords\LINQDistinctWords\obj\Debug\LINQDistinctWords.pdb
+F:\MSUM Spring ' 14\C# - Yuri\P2\BladowCaseyP2\BladowCasey_ex09_04\LINQDistinctWords\LINQDistinctWords\bin\Debug\LINQDistinctWords.exe
+F:\MSUM Spring ' 14\C# - Yuri\P2\BladowCaseyP2\BladowCasey_ex09_04\LINQDistinctWords\LINQDistinctWords\bin\Debug\LINQDistinctWords.pdb
+F:\MSUM Spring ' 14\C# - Yuri\P2\BladowCaseyP2\BladowCasey_ex09_04\LINQDistinctWords\LINQDistinctWords\obj\Debug\LINQDistinctWords.csprojResolveAssemblyReference.cache
+F:\MSUM Spring ' 14\C# - Yuri\P2\BladowCaseyP2\BladowCasey_ex09_04\LINQDistinctWords\bin\Debug\LINQDistinctWords.exe.config
+F:\MSUM Spring ' 14\C# - Yuri\P2\BladowCaseyP2\BladowCasey_ex09_04\LINQDistinctWords\obj\Debug\LINQDistinctWords.exe
+F:\MSUM Spring ' 14\C# - Yuri\P2\BladowCaseyP2\BladowCasey_ex09_04\LINQDistinctWords\obj\Debug\LINQDistinctWords.pdb

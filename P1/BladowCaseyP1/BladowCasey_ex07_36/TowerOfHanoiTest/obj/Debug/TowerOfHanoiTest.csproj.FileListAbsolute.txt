@@ -1,0 +1,8 @@
+C:\Users\bladowca\Desktop\BladowCasey_ex07_36\TowerOfHanoiTest\bin\Debug\TowerOfHanoiTest.exe.config
+C:\Users\bladowca\Desktop\BladowCasey_ex07_36\TowerOfHanoiTest\obj\Debug\TowerOfHanoiTest.csprojResolveAssemblyReference.cache
+C:\Users\bladowca\Desktop\BladowCasey_ex07_36\TowerOfHanoiTest\bin\Debug\TowerOfHanoiTest.exe
+C:\Users\bladowca\Desktop\BladowCasey_ex07_36\TowerOfHanoiTest\bin\Debug\TowerOfHanoiTest.pdb
+C:\Users\bladowca\Desktop\BladowCasey_ex07_36\TowerOfHanoiTest\bin\Debug\BladowCasey_ex07_36.dll
+C:\Users\bladowca\Desktop\BladowCasey_ex07_36\TowerOfHanoiTest\bin\Debug\BladowCasey_ex07_36.pdb
+C:\Users\bladowca\Desktop\BladowCasey_ex07_36\TowerOfHanoiTest\obj\Debug\TowerOfHanoiTest.exe
+C:\Users\bladowca\Desktop\BladowCasey_ex07_36\TowerOfHanoiTest\obj\Debug\TowerOfHanoiTest.pdb

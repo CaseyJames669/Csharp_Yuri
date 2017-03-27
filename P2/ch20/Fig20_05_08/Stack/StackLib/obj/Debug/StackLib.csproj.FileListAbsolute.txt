@@ -1,0 +1,9 @@
+C:\Users\boreisha\Documents\2014Spring\CSIS336\Code_Examples\ch20\Fig20_05_08\Stack\StackLib\bin\Debug\StackLib.dll
+C:\Users\boreisha\Documents\2014Spring\CSIS336\Code_Examples\ch20\Fig20_05_08\Stack\StackLib\bin\Debug\StackLib.pdb
+C:\Users\boreisha\Documents\2014Spring\CSIS336\Code_Examples\ch20\Fig20_05_08\Stack\StackLib\obj\Debug\StackLib.dll
+C:\Users\boreisha\Documents\2014Spring\CSIS336\Code_Examples\ch20\Fig20_05_08\Stack\StackLib\obj\Debug\StackLib.pdb
+F:\MSUM Spring ' 14\C# - Yuri\P2\ch20\Fig20_05_08\Stack\StackLib\bin\Debug\StackLib.dll
+F:\MSUM Spring ' 14\C# - Yuri\P2\ch20\Fig20_05_08\Stack\StackLib\bin\Debug\StackLib.pdb
+F:\MSUM Spring ' 14\C# - Yuri\P2\ch20\Fig20_05_08\Stack\StackLib\obj\Debug\StackLib.csprojResolveAssemblyReference.cache
+F:\MSUM Spring ' 14\C# - Yuri\P2\ch20\Fig20_05_08\Stack\StackLib\obj\Debug\StackLib.dll
+F:\MSUM Spring ' 14\C# - Yuri\P2\ch20\Fig20_05_08\Stack\StackLib\obj\Debug\StackLib.pdb

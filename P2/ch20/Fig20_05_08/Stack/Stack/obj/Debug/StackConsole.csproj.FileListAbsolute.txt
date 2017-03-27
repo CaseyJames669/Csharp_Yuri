@@ -1,0 +1,16 @@
+C:\Users\boreisha\Documents\2014Spring\CSIS336\Code_Examples\ch20\Fig20_05_08\Stack\Stack\bin\Debug\Stack.exe.config
+C:\Users\boreisha\Documents\2014Spring\CSIS336\Code_Examples\ch20\Fig20_05_08\Stack\Stack\obj\Debug\Stack.exe
+C:\Users\boreisha\Documents\2014Spring\CSIS336\Code_Examples\ch20\Fig20_05_08\Stack\Stack\obj\Debug\Stack.pdb
+C:\Users\boreisha\Documents\2014Spring\CSIS336\Code_Examples\ch20\Fig20_05_08\Stack\Stack\obj\Debug\StackConsole.csprojResolveAssemblyReference.cache
+C:\Users\boreisha\Documents\2014Spring\CSIS336\Code_Examples\ch20\Fig20_05_08\Stack\Stack\bin\Debug\Stack.exe
+C:\Users\boreisha\Documents\2014Spring\CSIS336\Code_Examples\ch20\Fig20_05_08\Stack\Stack\bin\Debug\Stack.pdb
+C:\Users\boreisha\Documents\2014Spring\CSIS336\Code_Examples\ch20\Fig20_05_08\Stack\Stack\bin\Debug\StackLib.dll
+C:\Users\boreisha\Documents\2014Spring\CSIS336\Code_Examples\ch20\Fig20_05_08\Stack\Stack\bin\Debug\StackLib.pdb
+F:\MSUM Spring ' 14\C# - Yuri\P2\ch20\Fig20_05_08\Stack\Stack\bin\Debug\Stack.exe.config
+F:\MSUM Spring ' 14\C# - Yuri\P2\ch20\Fig20_05_08\Stack\Stack\obj\Debug\Stack.exe
+F:\MSUM Spring ' 14\C# - Yuri\P2\ch20\Fig20_05_08\Stack\Stack\obj\Debug\Stack.pdb
+F:\MSUM Spring ' 14\C# - Yuri\P2\ch20\Fig20_05_08\Stack\Stack\bin\Debug\Stack.exe
+F:\MSUM Spring ' 14\C# - Yuri\P2\ch20\Fig20_05_08\Stack\Stack\bin\Debug\Stack.pdb
+F:\MSUM Spring ' 14\C# - Yuri\P2\ch20\Fig20_05_08\Stack\Stack\bin\Debug\StackLib.dll
+F:\MSUM Spring ' 14\C# - Yuri\P2\ch20\Fig20_05_08\Stack\Stack\bin\Debug\StackLib.pdb
+F:\MSUM Spring ' 14\C# - Yuri\P2\ch20\Fig20_05_08\Stack\Stack\obj\Debug\StackConsole.csprojResolveAssemblyReference.cache

@@ -1,0 +1,17 @@
+C:\books\2012\VCSHARP2012HTP\examples\ch17\Fig17_05\FileTest\FileTest\bin\Debug\FileTest.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch17\Fig17_05\FileTest\FileTest\bin\Debug\FileTest.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch17\Fig17_05\FileTest\FileTest\obj\Debug\FileTest.csprojResolveAssemblyReference.cache
+C:\books\2012\VCSHARP2012HTP\examples\ch17\Fig17_05\FileTest\FileTest\obj\Debug\FileTest.FileTestForm.resources
+C:\books\2012\VCSHARP2012HTP\examples\ch17\Fig17_05\FileTest\FileTest\obj\Debug\FileTest.Properties.Resources.resources
+C:\books\2012\VCSHARP2012HTP\examples\ch17\Fig17_05\FileTest\FileTest\obj\Debug\FileTest.csproj.GenerateResource.Cache
+C:\books\2012\VCSHARP2012HTP\examples\ch17\Fig17_05\FileTest\FileTest\obj\Debug\FileTest.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch17\Fig17_05\FileTest\FileTest\obj\Debug\FileTest.pdb
+C:\Users\boreisha\Documents\2014Spring\CSIS336\Code_Examples\ch17\Fig17_05\FileTest\FileTest\obj\Debug\FileTest.exe
+C:\Users\boreisha\Documents\2014Spring\CSIS336\Code_Examples\ch17\Fig17_05\FileTest\FileTest\obj\Debug\FileTest.pdb
+C:\Users\boreisha\Documents\2014Spring\CSIS336\Code_Examples\ch17\Fig17_05\FileTest\FileTest\bin\Debug\FileTest.exe
+C:\Users\boreisha\Documents\2014Spring\CSIS336\Code_Examples\ch17\Fig17_05\FileTest\FileTest\bin\Debug\FileTest.pdb
+C:\Users\boreisha\Documents\2014Spring\CSIS336\Code_Examples\ch17\Fig17_05\FileTest\FileTest\obj\Debug\FileTest.csprojResolveAssemblyReference.cache
+C:\Users\boreisha\Documents\2014Spring\CSIS336\Code_Examples\ch17\Fig17_05\FileTest\FileTest\obj\Debug\FileTest.FileTestForm.resources
+C:\Users\boreisha\Documents\2014Spring\CSIS336\Code_Examples\ch17\Fig17_05\FileTest\FileTest\obj\Debug\FileTest.Properties.Resources.resources
+C:\Users\boreisha\Documents\2014Spring\CSIS336\Code_Examples\ch17\Fig17_05\FileTest\FileTest\obj\Debug\FileTest.csproj.GenerateResource.Cache
+C:\Users\boreisha\Documents\2014Spring\CSIS336\Code_Examples\ch17\Fig17_05\FileTest\FileTest\bin\Debug\FileTest.exe.config

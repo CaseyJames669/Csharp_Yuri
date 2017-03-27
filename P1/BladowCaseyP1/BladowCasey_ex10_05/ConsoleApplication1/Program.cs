@@ -1,0 +1,49 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApplication1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            SavingAccount saver1 = new SavingAccount(2000M);
+            SavingAccount saver2 = new SavingAccount(3000M);
+            SavingAccount.ModifyInterestRate(0.04M);
+
+            Console.WriteLine("Monthly balances for one year at .04");
+            Console.WriteLine("Balances:");
+
+            Console.WriteLine("{0,10}{1,10}{2,10}", string.Empty,
+               "Saver 1", "Saver 2");
+            Console.WriteLine("{0,-10}{1,10}{2,10}", "Base",
+               saver1.ToString(), saver2.ToString());
+
+            for (int month = 1; month <= 12; month++)
+            {
+                string monthLabel = string.Format("Month {0}:", month);
+                saver1.CalculateMonthlyInterest();
+                saver2.CalculateMonthlyInterest();
+
+                Console.WriteLine("{0,-10}{1,10}{2,10}", monthLabel,
+                   saver1.ToString(), saver2.ToString());
+            } // end for
+
+            SavingAccount.ModifyInterestRate(.05M);
+            saver1.CalculateMonthlyInterest();
+            saver2.CalculateMonthlyInterest();
+
+            Console.WriteLine("\nAfter setting interest rate to .05");
+            Console.WriteLine("Balances:");
+            Console.WriteLine("{0,10}{1,10}{2,10}", string.Empty,
+               "Saver 1", "Saver 2");
+            Console.WriteLine("{0,-10}{1,10}{2,10}", "Month 13:",
+               saver1.ToString(), saver2.ToString());
+
+            Console.Read();
+        } //end main
+    }
+}

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BladowCasey_ex09_03", "BladowCasey_ex09_03\BladowCasey_ex09_03.csproj", "{D5A6EB1B-2CD1-4228-AEC7-EF6BA240FBE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Invoice", "Invoice\Invoice.csproj", "{1298D72C-3F43-4B7D-A433-52903E27D522}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5A6EB1B-2CD1-4228-AEC7-EF6BA240FBE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5A6EB1B-2CD1-4228-AEC7-EF6BA240FBE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5A6EB1B-2CD1-4228-AEC7-EF6BA240FBE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5A6EB1B-2CD1-4228-AEC7-EF6BA240FBE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1298D72C-3F43-4B7D-A433-52903E27D522}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1298D72C-3F43-4B7D-A433-52903E27D522}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1298D72C-3F43-4B7D-A433-52903E27D522}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1298D72C-3F43-4B7D-A433-52903E27D522}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

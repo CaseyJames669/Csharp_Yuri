@@ -1,0 +1,4 @@
+C:\Users\bladowca\Desktop\BladowCasey_ex07_36\BladowCasey_ex07_36\bin\Debug\BladowCasey_ex07_36.dll
+C:\Users\bladowca\Desktop\BladowCasey_ex07_36\BladowCasey_ex07_36\bin\Debug\BladowCasey_ex07_36.pdb
+C:\Users\bladowca\Desktop\BladowCasey_ex07_36\BladowCasey_ex07_36\obj\Debug\BladowCasey_ex07_36.dll
+C:\Users\bladowca\Desktop\BladowCasey_ex07_36\BladowCasey_ex07_36\obj\Debug\BladowCasey_ex07_36.pdb

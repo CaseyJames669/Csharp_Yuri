@@ -1,0 +1,8 @@
+C:\Users\Casey\Documents\Dropbox\MSUM Spring ' 14\C# - Yuri\BladowCaseyP1\BladowCasey_ex12_13\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Casey\Documents\Dropbox\MSUM Spring ' 14\C# - Yuri\BladowCaseyP1\BladowCasey_ex12_13\ConsoleApplication1\obj\Debug\AccountTest.csprojResolveAssemblyReference.cache
+C:\Users\Casey\Documents\Dropbox\MSUM Spring ' 14\C# - Yuri\BladowCaseyP1\BladowCasey_ex12_13\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Casey\Documents\Dropbox\MSUM Spring ' 14\C# - Yuri\BladowCaseyP1\BladowCasey_ex12_13\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Casey\Documents\Dropbox\MSUM Spring ' 14\C# - Yuri\BladowCaseyP1\BladowCasey_ex12_13\ConsoleApplication1\bin\Debug\BladowCasey_ex12_13.dll
+C:\Users\Casey\Documents\Dropbox\MSUM Spring ' 14\C# - Yuri\BladowCaseyP1\BladowCasey_ex12_13\ConsoleApplication1\bin\Debug\BladowCasey_ex12_13.pdb
+C:\Users\Casey\Documents\Dropbox\MSUM Spring ' 14\C# - Yuri\BladowCaseyP1\BladowCasey_ex12_13\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Casey\Documents\Dropbox\MSUM Spring ' 14\C# - Yuri\BladowCaseyP1\BladowCasey_ex12_13\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
